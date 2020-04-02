@@ -1,0 +1,1 @@
+from .XMLtoJSON import convert
